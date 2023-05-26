@@ -1,0 +1,8 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 25C19.6274 25 25 19.6274 25 13C25 6.37258 19.6274 1 13 1C6.37258 1 1 6.37258 1 13C1 19.6274 6.37258 25 13 25Z" stroke="#FBFBFB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 18.3334C15.9455 18.3334 18.3333 15.9455 18.3333 13C18.3333 10.0545 15.9455 7.66669 13 7.66669C10.0544 7.66669 7.66663 10.0545 7.66663 13C7.66663 15.9455 10.0544 18.3334 13 18.3334Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="9.28337" y1="8.85" x2="6.18337" y2="4.71667" stroke="white" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 6 9 12"/>
+<line x1="0.75" y1="-0.75" x2="5.91667" y2="-0.75" transform="matrix(0.6 -0.8 -0.8 -0.6 15.6666 9)" stroke="white" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 6 9 12"/>
+<line x1="0.75" y1="-0.75" x2="5.91667" y2="-0.75" transform="matrix(-0.6 0.8 0.8 0.6 10.3334 17)" stroke="white" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 6 9 12"/>
+<line x1="16.7166" y1="17.15" x2="19.8166" y2="21.2833" stroke="white" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="3 6 9 12"/>
+</svg>
